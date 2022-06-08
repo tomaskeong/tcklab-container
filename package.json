@@ -1,0 +1,23 @@
+{
+  "name": "tcklab-container",
+  "version": "1.0.0",
+  "description": "TCK Lab Container - Responsible for containing all other applications (micro-frontends) and being the master page of the TCK Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomaskeong/tcklab-container.git"
+  },
+  "keywords": [
+    "tcklab",
+    "tcklab-container"
+  ],
+  "author": "Tomás Keong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomaskeong/tcklab-container/issues"
+  },
+  "homepage": "https://github.com/tomaskeong/tcklab-container#readme"
+}
