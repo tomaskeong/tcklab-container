@@ -55,9 +55,5 @@
 	"dependencies": {
 		"react": "^18.1.0",
 		"react-dom": "^18.1.0"
-	},
-	"lint-staged": {
-		"*.{js, ts, jsx, tsx}": "yarn lint:fix && yarn format",
-		"*.{html, md, json, yml, yaml}": "yarn format"
 	}
 }
