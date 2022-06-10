@@ -1,6 +1,6 @@
 # TCK Lab - Container
 
-TCK Lab Container - Responsible for containing all other applications (micro-frontends) and being the master page of the TCK Lab.
+TCK Lab Container - Responsible for being the application shell containing all TCK Lab's apps (micro-frontends).
 
 ## Running the application
 
