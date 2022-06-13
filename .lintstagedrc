@@ -1,7 +1,6 @@
 {
-  "*.{js, ts, jsx, tsx}": [
-    "yarn lint:fix",
-    "yarn format"
+  "*.{js,ts,jsx,tsx}": [
+    "yarn lint:check"
   ],
-  "*.{html, md, json, yml, yaml}": "yarn format"
+  "*.{html,md,json,yml,yaml}": "yarn format"
 }
