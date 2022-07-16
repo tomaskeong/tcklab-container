@@ -13,6 +13,7 @@ yarn start
 ## Built with
 
 - [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## License
 
