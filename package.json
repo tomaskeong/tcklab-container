@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TCK Lab Container - Responsible for containing all other applications (micro-frontends) and being the master page of the TCK Lab",
   "private": "true",
-  "main": "index.js",
+  "main": "index.jsx",
   "scripts": {
     "start": "webpack-dev-server .",
     "build": "webpack .",
@@ -53,6 +53,7 @@
     "husky": ">=6",
     "lint-staged": ">=10",
     "prettier": "2.6.2",
+    "ts-loader": "^9.3.1",
     "typescript": "^4.7.3",
     "webpack": "^5.73.0",
     "webpack-cli": "^4.9.2",
